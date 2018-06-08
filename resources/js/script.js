@@ -97,4 +97,20 @@ $(document).ready(function(){
     }
   })
 
+
+  var map = new GMaps({
+    div: '.map',
+    lat: 38.7436057,
+    lng: -9.01,
+    zoom:12
+  });
+
+  map.addMarker({
+    lat: 38.7436057,
+    lng: -9.01,
+    title: 'Lisbon',
+    infoWindow: {
+      content: '<p>Our HeadQuartrs</p>'
+    }
+  });
 });
