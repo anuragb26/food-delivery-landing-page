@@ -399,6 +399,7 @@
                     <form method="post" action="mailer.php" class="contact-form">
                         <div class="row">
                             <?php
+                            /*
                                 if($_GET['success']==1){
                                     echo "<div class=\"form-messages success\">
                                             Thank you ! Your message has been sent.
@@ -409,6 +410,7 @@
                                             Ooop!Something went wrong.Please try again.
                                         </div>";
                                 }
+                                */
                             ?>
                         </div>
 
