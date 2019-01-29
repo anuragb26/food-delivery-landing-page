@@ -387,7 +387,7 @@
             </div>
         </section>
         
-        <div class="map-box">
+        <!-- <div class="map-box">
             <div class="map">
 
             </div>
@@ -483,7 +483,7 @@
                     </form>
                 </div>
             </div>
-    </div>
+    </div> -->
 
         <footer>
             <div class="row">
